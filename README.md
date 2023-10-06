@@ -1,4 +1,4 @@
-Project: Virtual Community Space
+**Project: Virtual Community Space**
 
 Overview:
 In this project, I created a virtual community space with an interactive interface that allows users to explore events by location. The user should be able to click on one of at least four locations and view events that have occurred or will occur there.
